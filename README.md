@@ -67,15 +67,6 @@ A library stores books, lends them to members, manages loans, and records author
 - **Staff** is managed separately.
 
 ---
-
-##  ER Diagram
-
-![ER Diagram](ER_Diagram.png)
-
-> *Diagram illustrates keys and foreign relationships.*
-
----
-
 ##  SQL Script
 
 See [`schema.sql`](schema.sql) file for the complete table creation script with proper constraints.
